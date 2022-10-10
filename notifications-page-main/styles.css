@@ -1,0 +1,76 @@
+.upper{
+display: flex;
+white-space: 10px;
+}
+.notification{
+    width: 14px;
+    height: 18px;
+    padding-left: 4px;
+    margin-top: 24px;
+    margin-right: 260px;
+    background-color: rgb(63, 63, 229);
+    color: white;
+    border-radius: 2px;
+}
+
+h2{
+/* float: left; */
+color: black;
+margin-right: 10px;
+}
+h5{
+/* float: right; */
+color: grey;
+/* margin-top: 30px; */
+}
+
+
+
+.markWebberImage{
+    width: 38px;
+    height: 38px;
+    position: relative;
+    left: 5px;
+    bottom: 22px;
+    padding-top: 9px;
+    padding-bottom:9px;
+    margin-right: 10px;
+float: left;
+}
+
+.upper{
+    /* display: inline-block; */
+    clear: both;
+}
+
+
+.markwebber{
+    color: black;
+    font-weight:bold;
+    margin: 0;
+}
+
+.beechWala{
+    color: rgb(104, 104, 104);
+    margin: 0;
+}
+.sideWala{
+    font-weight: bold;
+    color: rgb(79, 73, 73);
+    margin: 0;
+}
+.neecheWala{
+    color: rgb(178, 185, 192);
+    margin-left: 2.75rem;
+    margin-top: 0;
+    line-height: 0;
+}
+.A{
+    width: 32rem;
+    border-radius: 12px;
+    background-color: rgb(234, 240, 243);
+    margin: 0;
+    line-height: 0;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
